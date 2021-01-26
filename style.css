@@ -1,0 +1,29 @@
+body , html{
+    height: 100%;
+    background-image: url(Website-Design-Background-1.jpg);
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.text{
+    color: white;
+    text-align: center;
+    align-items: center;
+}
+
+.skills{
+    position: absolute top: 740px;
+}
+
+#f{
+  position: absolute; left: 550px; top:  740px ;
+}
+
+#h{
+ position: absolute; left: 1055px; top:  730px ;
+}
+
+#l{
+    position: absolute; left: 550px; top: ;
+}
