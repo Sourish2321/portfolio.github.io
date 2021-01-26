@@ -25,3 +25,7 @@ background-size: cover;
 #l{
     position: absolute; left: 550px; top: ;
 }
+
+.title{
+    color: white;
+}
